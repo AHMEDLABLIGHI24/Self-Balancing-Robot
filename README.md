@@ -2,7 +2,7 @@
 
 A two-wheeled mobile robot that uses sensor feedback and control theory to maintain balance autonomously. This project demonstrates core principles of robotics, mechatronics, and real-time control systems. It is an excellent educational platform for learning about PID control, sensor fusion, and embedded programming.
 
-![Self-Balancing Robot](images/robot_image.jpg)
+![Self-Balancing Robot](sbf (1).PNG)
 
 ---
 
